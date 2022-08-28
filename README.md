@@ -1,5 +1,4 @@
 # Price Difference Between Men’s and Women’s Shoes
-Performed Exploratory Data Analysis on shoes dataset
 
 ## Abstract 
 
@@ -13,7 +12,7 @@ In both datasets, the popularity of the shoe brands and the price of the shoes a
 
 [Full Report](https://github.com/Alicia2203/EDA-Shoes-Dataset/blob/main/Report.pdf) 
 
-
+[Data Source](https://developer.datafiniti.co/docs/product-data-schema)
 
 
 
